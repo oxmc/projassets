@@ -1,0 +1,3 @@
+[submodule "ppdb"]
+	path = ppdb
+	url = https://github.com/oxmc/paypaldonatebutton
