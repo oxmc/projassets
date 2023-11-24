@@ -1,3 +1,6 @@
 [submodule "ppdb"]
 	path = ppdb
 	url = https://github.com/oxmc/paypaldonatebutton
+[submodule "fa"]
+	path = fa
+	url = https://github.com/oxmc/font-awesome
