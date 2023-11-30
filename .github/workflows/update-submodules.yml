@@ -4,6 +4,8 @@ on:
   # Run manually
   workflow_dispatch:
 
+  push:
+
 jobs:
   update:
     runs-on: ubuntu-latest
