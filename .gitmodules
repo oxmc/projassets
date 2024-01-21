@@ -4,3 +4,6 @@
 [submodule "ppdb"]
 	path = ppdb
 	url = https://github.com/oxmc/paypaldonatebutton
+[submodule "osd"]
+	path = osd
+	url = https://github.com/oxmc/os-detect.js
