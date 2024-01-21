@@ -6,4 +6,4 @@
 	url = https://github.com/oxmc/paypaldonatebutton
 [submodule "osd"]
 	path = osd
-	url = https://github.com/oxmc/os-detect.js
+	url = https://github.com/oxmc/OS-Detect.js
